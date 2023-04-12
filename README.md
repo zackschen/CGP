@@ -30,5 +30,16 @@ For various experiments, you should know the role of each argument.
 ## Citation
 ---
 ```
-
+@inproceedings{DBLP:conf/mm/ChenZSG22,
+  author    = {Cheng Chen and
+               Ji Zhang and
+               Jingkuan Song and
+               Lianli Gao},
+  title     = {Class Gradient Projection For Continual Learning},
+  booktitle = {{MM} '22: The 30th {ACM} International Conference on Multimedia, Lisboa,
+               Portugal, October 10 - 14, 2022},
+  pages     = {5575--5583},
+  publisher = {{ACM}},
+  year      = {2022},
+}
 ```
